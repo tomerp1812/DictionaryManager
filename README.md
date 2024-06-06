@@ -21,6 +21,17 @@ The program offers the following options through an interactive menu:
 
 Each dictionary is structured using a `Dictionary` struct, containing pointers to `Word` structs, forming a linked list where each `Word` node holds translations and a pointer to the next word.
 
+### Example Runs
+Below are some images demonstrating typical interactions with the Dictionary Manager. These examples show the creation of dictionaries, addition of words, and other functionalities in action.
+
+<p align="center">
+  <img src="https://github.com/tomerp1812/DictionaryManager/assets/110912180/187beb26-c800-46c5-a424-6fb46435875b" alt="Example Run 1" width="30%">
+  <img src="https://github.com/tomerp1812/DictionaryManager/assets/110912180/24777eb8-5be1-4671-94a4-b23da6cf4de3" alt="Example Run 2" width="30%">
+  <img src="https://github.com/tomerp1812/DictionaryManager/assets/110912180/e2b202a6-9de5-40ae-885c-3835151ac50c" alt="Example Run 3" width="30%">
+</p>
+
+
+
 ## Installation and Compilation
 Ensure you have a GCC compiler installed on your machine to compile and run the program.
 
