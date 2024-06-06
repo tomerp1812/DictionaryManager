@@ -37,14 +37,14 @@ cd DictionaryManager
 ```
 compile the source file:
 ```bash
-gcc -Wall -c ex_5.c
-gcc -o ex_5 ex_5.o
+gcc -Wall -c DictionaryManager.c
+gcc -o DictionaryManager DictionaryManager.o
 ```
 run the program with either:
 ```bash
-./ex_5
+./DictionaryManager
 ```
 or
 ```bash
-ex_5
+DictionaryManager
 ```
