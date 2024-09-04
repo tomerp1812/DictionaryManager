@@ -48,8 +48,7 @@ cd DictionaryManager
 ```
 compile the source file:
 ```bash
-gcc -Wall -c DictionaryManager.c
-gcc -o DictionaryManager DictionaryManager.o
+gcc -Wall -o DictionaryManager main.c DictionaryManager.c utils.c
 ```
 run the program with either:
 ```bash
