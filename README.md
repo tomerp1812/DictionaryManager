@@ -33,7 +33,7 @@ Below are some images demonstrating typical interactions with the Dictionary Man
 
 
 ## Installation and Compilation
-Ensure you have a GCC compiler installed on your machine to compile and run the program.
+Ensure you have GCC compiler installed on your machine to compile and run the program.
 
 
 
